@@ -1,4 +1,4 @@
-# sns
+# SNS (Simple Notification Service)
 Push Notification through SNS, configure topic, publish notifications
 
 **createSNSTopic**
